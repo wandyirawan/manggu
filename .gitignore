@@ -1,0 +1,19 @@
+# Binary / build output
+/bin/
+/api
+*.exe
+
+# Database (local dev)
+*.db
+*.db-shm
+*.db-wal
+/data/
+
+# Environment
+.env
+.env.*
+
+# Go
+*.test
+*.out
+coverage.*
